@@ -1,0 +1,4 @@
+the inorder traversal of a binary search tree gives an ascendign sorted array.
+seraching binary best time complexity is O(long(n)).
+time complexity = hight of the tree
+O(log(n)) <= H <= n
